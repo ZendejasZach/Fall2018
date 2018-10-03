@@ -1,0 +1,8 @@
+SQL> 
+SQL> 
+SQL> -- Query the table names
+SQL> 
+SQL> 
+SQL> 
+SQL> -- Close the log file
+SQL> SPOOL OFF
